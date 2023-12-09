@@ -1,0 +1,6 @@
+print('\n\033[31m')
+print("\t\t\t**********************************************")
+print("\t\t\t*                                            *")
+print("\t\t\t*    Time is Up, Please take your seats!     *")
+print("\t\t\t*                                            *")
+print("\t\t\t**********************************************")
