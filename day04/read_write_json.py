@@ -51,3 +51,16 @@ json_file = open('files/Test2.json', 'w')
 json_object = json.dumps(students, indent=2) # converting dictionary to json object
 json_file.write(json_object)
 json_file.close()
+
+"""
+    Web Automation:
+        BeautifulSoup4
+        request
+        pytest
+        robot
+    Web Development
+        Django
+        FastAPI
+        flask
+        ...
+"""
